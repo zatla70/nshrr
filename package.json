@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node bot.js"
   },
-{
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
