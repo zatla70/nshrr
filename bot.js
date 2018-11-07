@@ -26,4 +26,4 @@ Client.on("guildMemberRemove", member => {
 
 
 
-Client.login(process.env.BOT_TOKEN));
+Client.login(process.env.BOT_TOKEN);
